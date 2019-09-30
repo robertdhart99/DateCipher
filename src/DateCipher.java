@@ -10,6 +10,7 @@ public class DateCipher {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        
         int input = 0;
         String KeyInputNum = "";
         System.out.println("Welcome to DateCipher!\nThe Key is a date like 8/31/19.\nPlease enter it as 83119");
